@@ -2,6 +2,7 @@
 /**
  * The template for displaying all single posts.
  *
+ * @package huhanlin
  */
 
 get_header(); ?>
